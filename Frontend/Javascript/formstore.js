@@ -62,7 +62,7 @@ mainlogin.addEventListener("click", function (event) {
 
     if (logemail === SignEmail && logpass === SignPassword) {
 
-        window.location.href = "index.html";
+        window.location.href = "index2.html";
 
     }
     else{
